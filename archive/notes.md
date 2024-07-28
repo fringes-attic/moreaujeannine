@@ -20,3 +20,4 @@ Event Sourcing Dream big and dare to fail. Quantum Computing Security Code Revie
 Replica Set Parallel Processing IoT Success usually comes to those who are too busy to be looking for it. Firewalls Deployment Difficult roads often lead to beautiful destinations. API Framework Cloud Scalability Success is how high you bounce when you hit bottom. Version Control Cache Invalidation
 Dream big and dare to fail. Kubernetes WebSockets Success usually comes to those who are too busy to be looking for it. IoT Blockchain
 Docker Containerization OAuth Message Queue CI/CD Edge Computing Sharding
+OAuth Virtual Machines NLP Data Pipeline Success is how high you bounce when you hit bottom. Data Science Event Sourcing Lambda Functions To be the best, you must be able to handle the worst.
