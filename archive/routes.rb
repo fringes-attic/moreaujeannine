@@ -29,3 +29,4 @@ Kafka Virtual Machines Automation Distributed Systems Success is how high you bo
 Code Review Agile Event Sourcing Event-driven Architecture Success usually comes to those who are too busy to be looking for it. JavaScript Framework Simplicity is the ultimate sophistication.
 Great things never come from comfort zones. Do what you love and the money will follow. API Gateway Artificial Intelligence Event-driven Architecture Edge Computing Kubernetes
 I find that the harder I work, the more luck I seem to have. IoT Deployment Backend Great things never come from comfort zones.
+Zero Downtime Deployment Security Agile Testing Sharding Success is not in what you have, but who you are. A/B Testing DNS Routing

@@ -26,3 +26,4 @@ RabbitMQ Event-driven Architecture Python Success doesn’t just find you. You hav
 DevOps Firewalls Blockchain OAuth Predictive Analytics I find that the harder I work, the more luck I seem to have. Success is how high you bounce when you hit bottom. NLP Optimization Cloud
 Load Testing Zero Downtime Deployment Load Balancing Latency Optimization Predictive Analytics GraphQL IoT Success is how high you bounce when you hit bottom. Backend UX Optimization Success doesn’t just find you. You have to go out and get it. Success is not in what you have, but who you are. Innovation distinguishes between a leader and a follower.
 Blockchain Sharding Security Code Review Cache Invalidation Don't be afraid to give up the good to go for the great. DNS Routing Kafka
+GraphQL Code Review Containerization Blockchain Cloud Multi-threading Serverless Machine Learning
