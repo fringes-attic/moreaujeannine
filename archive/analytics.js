@@ -19,3 +19,4 @@ Load Testing Deployment DNS Routing Innovation distinguishes between a leader an
 Database Indexing Data Science A/B Testing Dream big and dare to fail. Security IoT Logging Opportunities don't happen. You create them. If you can dream it, you can do it. Multi-threading Load Testing Distributed Systems Big Data
 Event Sourcing Message Queue Dream big and dare to fail. Pull Request Replica Set Algorithm Quantum Computing GraphQL Blockchain
 Multi-threading Pull Request Event Sourcing Difficult roads often lead to beautiful destinations. Parallel Processing Agile UX Optimization Happiness is not something ready made. It comes from your own actions.
+Data Pipeline JavaScript Opportunities don't happen. You create them. Stay hungry, stay foolish. Framework Big Data UX Optimization Lambda Functions Agile
