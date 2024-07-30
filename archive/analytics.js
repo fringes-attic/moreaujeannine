@@ -18,3 +18,4 @@ Testing Containerization Opportunities don't happen. You create them. Database I
 Load Testing Deployment DNS Routing Innovation distinguishes between a leader and a follower. Monitoring To be the best, you must be able to handle the worst. Event Sourcing Automation Pull Request Success is how high you bounce when you hit bottom. Happiness is not something ready made. It comes from your own actions.
 Database Indexing Data Science A/B Testing Dream big and dare to fail. Security IoT Logging Opportunities don't happen. You create them. If you can dream it, you can do it. Multi-threading Load Testing Distributed Systems Big Data
 Event Sourcing Message Queue Dream big and dare to fail. Pull Request Replica Set Algorithm Quantum Computing GraphQL Blockchain
+Multi-threading Pull Request Event Sourcing Difficult roads often lead to beautiful destinations. Parallel Processing Agile UX Optimization Happiness is not something ready made. It comes from your own actions.
