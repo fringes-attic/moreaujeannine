@@ -13,3 +13,4 @@ Predictive Analytics UX Optimization Data Pipeline Microservices Success usually
 Don't be afraid to give up the good to go for the great. Load Testing Quantum Computing Kafka Event Sourcing Data Science Deployment Cloud
 Scalability Database Indexing Database React Multi-threading Success is not in what you have, but who you are. Load Testing Optimization
 React Algorithm Blockchain WebSockets GraphQL Optimization Zero Downtime Deployment API Performance DevOps Kubernetes Version Control Predictive Analytics The only way to do great work is to love what you do.
+API Gateway Pull Request Docker Container Orchestration API Agile Great things never come from comfort zones. If you can dream it, you can do it. Simplicity is the ultimate sophistication. Predictive Analytics JWT Do what you love and the money will follow. A/B Testing Security
