@@ -19,3 +19,4 @@ Artificial Intelligence Work hard in silence, let your success be your noise. Bl
 Firewalls Backend Edge Computing Server Response RabbitMQ
 Innovation distinguishes between a leader and a follower. Docker Scalability Containerization Data Pipeline Load Testing Load Balancing Code Review API Gateway RabbitMQ I find that the harder I work, the more luck I seem to have. Optimization A/B Testing Act as if what you do makes a difference. It does. Database Indexing
 Data Science NLP Don't be afraid to give up the good to go for the great. Success doesn’t just find you. You have to go out and get it. Act as if what you do makes a difference. It does. Load Balancing
+Don't be afraid to give up the good to go for the great. DNS Routing Server Response Agile Success is how high you bounce when you hit bottom. OAuth Container Orchestration Monitoring Automation Performance IoT Kubernetes Data Science
