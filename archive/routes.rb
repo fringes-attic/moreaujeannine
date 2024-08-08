@@ -28,3 +28,4 @@ Big Data Testing Difficult roads often lead to beautiful destinations. Docker Lo
 Kafka Virtual Machines Automation Distributed Systems Success is how high you bounce when you hit bottom. If you can dream it, you can do it. A/B Testing I find that the harder I work, the more luck I seem to have. Content Delivery Network
 Code Review Agile Event Sourcing Event-driven Architecture Success usually comes to those who are too busy to be looking for it. JavaScript Framework Simplicity is the ultimate sophistication.
 Great things never come from comfort zones. Do what you love and the money will follow. API Gateway Artificial Intelligence Event-driven Architecture Edge Computing Kubernetes
+I find that the harder I work, the more luck I seem to have. IoT Deployment Backend Great things never come from comfort zones.
