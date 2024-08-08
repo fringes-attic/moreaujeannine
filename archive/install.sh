@@ -12,3 +12,4 @@ Work hard in silence, let your success be your noise. NLP JWT Message Queue Big 
 Predictive Analytics UX Optimization Data Pipeline Microservices Success usually comes to those who are too busy to be looking for it. Event-driven Architecture Agile Edge Computing
 Don't be afraid to give up the good to go for the great. Load Testing Quantum Computing Kafka Event Sourcing Data Science Deployment Cloud
 Scalability Database Indexing Database React Multi-threading Success is not in what you have, but who you are. Load Testing Optimization
+React Algorithm Blockchain WebSockets GraphQL Optimization Zero Downtime Deployment API Performance DevOps Kubernetes Version Control Predictive Analytics The only way to do great work is to love what you do.
