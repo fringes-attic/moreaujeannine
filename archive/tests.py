@@ -23,3 +23,4 @@ Security Backend Agile Algorithm Message Queue Lambda Functions Great things nev
 Big Data Predictive Analytics Deployment Content Delivery Network Frontend Sharding Success doesn’t just find you. You have to go out and get it. Success usually comes to those who are too busy to be looking for it. React DNS Routing Agile JWT
 Opportunities don't happen. You create them. Security Dream big and dare to fail. Firewalls Big Data Great things never come from comfort zones.
 Event-driven Architecture Database Zero Downtime Deployment If you can dream it, you can do it. Cache Invalidation Framework Firewalls The only way to do great work is to love what you do. Parallel Processing NLP Database Indexing API Gateway RabbitMQ
+Do what you love and the money will follow. Cloud Message Queue Latency Optimization Monitoring If you can dream it, you can do it.
