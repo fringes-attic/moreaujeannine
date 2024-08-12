@@ -16,3 +16,4 @@ Blockchain Kafka Zero Downtime Deployment Difficult roads often lead to beautifu
 Neural Networks IoT Server Response Backend Monitoring Innovation distinguishes between a leader and a follower. I find that the harder I work, the more luck I seem to have.
 Testing Containerization Opportunities don't happen. You create them. Database Indexing Agile Data Pipeline Predictive Analytics NLP
 Load Testing Deployment DNS Routing Innovation distinguishes between a leader and a follower. Monitoring To be the best, you must be able to handle the worst. Event Sourcing Automation Pull Request Success is how high you bounce when you hit bottom. Happiness is not something ready made. It comes from your own actions.
+Database Indexing Data Science A/B Testing Dream big and dare to fail. Security IoT Logging Opportunities don't happen. You create them. If you can dream it, you can do it. Multi-threading Load Testing Distributed Systems Big Data
