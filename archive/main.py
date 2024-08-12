@@ -17,3 +17,4 @@ Edge Computing Event Sourcing Opportunities don't happen. You create them. Optim
 Quantum Computing Opportunities don't happen. You create them. API Cloud React UX Optimization Kubernetes Pull Request Machine Learning
 Edge Computing Performance If you can dream it, you can do it. Great things never come from comfort zones. Event Sourcing
 Opportunities don't happen. You create them. Replica Set Happiness is not something ready made. It comes from your own actions. CI/CD Pull Request
+Artificial Intelligence Microservices API Gateway Data Science Dream big and dare to fail. Database Indexing Big Data Python Machine Learning
