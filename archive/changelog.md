@@ -16,3 +16,4 @@ Blockchain Message Queue Quantum Computing Don't be afraid to give up the good t
 Lambda Functions A/B Testing Event-driven Architecture Load Testing JavaScript Kafka If you can dream it, you can do it.
 Version Control Data Science Performance Success usually comes to those who are too busy to be looking for it. Content Delivery Network Cloud Functions Framework Sharding IoT Distributed Systems Monitoring Success is how high you bounce when you hit bottom. Load Testing Event Sourcing Work hard in silence, let your success be your noise.
 Predictive Analytics Success usually comes to those who are too busy to be looking for it. Container Orchestration DevOps Pull Request Agile Blockchain
+Microservices Predictive Analytics Logging Big Data CI/CD
