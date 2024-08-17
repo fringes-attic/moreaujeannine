@@ -19,3 +19,4 @@ Edge Computing Dream big and dare to fail. DevOps Microservices Cloud Opportunit
 Event Sourcing Dream big and dare to fail. Quantum Computing Security Code Review Data Science Database Virtual Machines GraphQL Deployment Logging Success doesn’t just find you. You have to go out and get it. If you can dream it, you can do it. DevOps Container Orchestration
 Replica Set Parallel Processing IoT Success usually comes to those who are too busy to be looking for it. Firewalls Deployment Difficult roads often lead to beautiful destinations. API Framework Cloud Scalability Success is how high you bounce when you hit bottom. Version Control Cache Invalidation
 Dream big and dare to fail. Kubernetes WebSockets Success usually comes to those who are too busy to be looking for it. IoT Blockchain
+Docker Containerization OAuth Message Queue CI/CD Edge Computing Sharding
