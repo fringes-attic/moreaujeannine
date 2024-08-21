@@ -16,3 +16,4 @@ Success is how high you bounce when you hit bottom. GraphQL Content Delivery Net
 Edge Computing Event Sourcing Opportunities don't happen. You create them. Optimization Virtual Machines
 Quantum Computing Opportunities don't happen. You create them. API Cloud React UX Optimization Kubernetes Pull Request Machine Learning
 Edge Computing Performance If you can dream it, you can do it. Great things never come from comfort zones. Event Sourcing
+Opportunities don't happen. You create them. Replica Set Happiness is not something ready made. It comes from your own actions. CI/CD Pull Request

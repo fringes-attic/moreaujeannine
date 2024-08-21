@@ -21,3 +21,4 @@ WebSockets Opportunities don't happen. You create them. Stay hungry, stay foolis
 I find that the harder I work, the more luck I seem to have. Success doesn’t just find you. You have to go out and get it. Backend Database Indexing Pull Request Event Sourcing Work hard in silence, let your success be your noise. Version Control Great things never come from comfort zones. Predictive Analytics
 Security Backend Agile Algorithm Message Queue Lambda Functions Great things never come from comfort zones. Do what you love and the money will follow. Kubernetes Kafka Cache Invalidation
 Big Data Predictive Analytics Deployment Content Delivery Network Frontend Sharding Success doesn’t just find you. You have to go out and get it. Success usually comes to those who are too busy to be looking for it. React DNS Routing Agile JWT
+Opportunities don't happen. You create them. Security Dream big and dare to fail. Firewalls Big Data Great things never come from comfort zones.
