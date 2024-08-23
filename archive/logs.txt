@@ -18,3 +18,4 @@ A/B Testing Replica Set Edge Computing Neural Networks Success is how high you b
 Artificial Intelligence Success usually comes to those who are too busy to be looking for it. Event Sourcing Version Control Cloud Functions Predictive Analytics Multi-threading Distributed Systems Agile
 Data Pipeline Do what you love and the money will follow. Great things never come from comfort zones. Act as if what you do makes a difference. It does. API
 Difficult roads often lead to beautiful destinations. Simplicity is the ultimate sophistication. OAuth A/B Testing Backend Kubernetes
+Happiness is not something ready made. It comes from your own actions. DNS Routing Database Indexing Zero Downtime Deployment Sharding CI/CD API Data Science The only way to do great work is to love what you do. Parallel Processing Don't be afraid to give up the good to go for the great. Success doesn’t just find you. You have to go out and get it. Docker Algorithm Monitoring

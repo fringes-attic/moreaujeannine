@@ -14,3 +14,4 @@ Replica Set Stay hungry, stay foolish. Machine Learning Happiness is not somethi
 Database Indexing Big Data Content Delivery Network Act as if what you do makes a difference. It does. Container Orchestration Version Control Latency Optimization
 Success is how high you bounce when you hit bottom. GraphQL Content Delivery Network Difficult roads often lead to beautiful destinations. NLP API Gateway
 Edge Computing Event Sourcing Opportunities don't happen. You create them. Optimization Virtual Machines
+Quantum Computing Opportunities don't happen. You create them. API Cloud React UX Optimization Kubernetes Pull Request Machine Learning
