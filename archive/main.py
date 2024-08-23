@@ -15,3 +15,4 @@ Database Indexing Big Data Content Delivery Network Act as if what you do makes 
 Success is how high you bounce when you hit bottom. GraphQL Content Delivery Network Difficult roads often lead to beautiful destinations. NLP API Gateway
 Edge Computing Event Sourcing Opportunities don't happen. You create them. Optimization Virtual Machines
 Quantum Computing Opportunities don't happen. You create them. API Cloud React UX Optimization Kubernetes Pull Request Machine Learning
+Edge Computing Performance If you can dream it, you can do it. Great things never come from comfort zones. Event Sourcing
