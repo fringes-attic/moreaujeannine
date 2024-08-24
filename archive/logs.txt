@@ -17,3 +17,4 @@ GraphQL Scalability Automation Testing Backend
 A/B Testing Replica Set Edge Computing Neural Networks Success is how high you bounce when you hit bottom.
 Artificial Intelligence Success usually comes to those who are too busy to be looking for it. Event Sourcing Version Control Cloud Functions Predictive Analytics Multi-threading Distributed Systems Agile
 Data Pipeline Do what you love and the money will follow. Great things never come from comfort zones. Act as if what you do makes a difference. It does. API
+Difficult roads often lead to beautiful destinations. Simplicity is the ultimate sophistication. OAuth A/B Testing Backend Kubernetes
