@@ -18,3 +18,4 @@ Machine Learning Lambda Functions Containerization Happiness is not something re
 Artificial Intelligence Work hard in silence, let your success be your noise. Blockchain Zero Downtime Deployment The only way to do great work is to love what you do. CI/CD
 Firewalls Backend Edge Computing Server Response RabbitMQ
 Innovation distinguishes between a leader and a follower. Docker Scalability Containerization Data Pipeline Load Testing Load Balancing Code Review API Gateway RabbitMQ I find that the harder I work, the more luck I seem to have. Optimization A/B Testing Act as if what you do makes a difference. It does. Database Indexing
+Data Science NLP Don't be afraid to give up the good to go for the great. Success doesn’t just find you. You have to go out and get it. Act as if what you do makes a difference. It does. Load Balancing

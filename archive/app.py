@@ -20,3 +20,4 @@ Difficult roads often lead to beautiful destinations. Performance Load Testing P
 Don't be afraid to give up the good to go for the great. Database Indexing Load Testing DNS Routing Performance DevOps Containerization Parallel Processing Event-driven Architecture Agile
 Cloud Functions DNS Routing Message Queue Code Review Database Indexing Database JWT Work hard in silence, let your success be your noise. CI/CD
 Firewalls Python Logging Version Control Database Data Science Lambda Functions NLP Kubernetes IoT
+API Gateway The only way to do great work is to love what you do. Great things never come from comfort zones. Predictive Analytics To be the best, you must be able to handle the worst. JWT Pull Request Data Pipeline NLP Framework Success usually comes to those who are too busy to be looking for it. Lambda Functions Success doesn’t just find you. You have to go out and get it. Parallel Processing Microservices
