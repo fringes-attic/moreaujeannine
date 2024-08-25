@@ -17,3 +17,4 @@ Innovation distinguishes between a leader and a follower. API Gateway Event-driv
 React Machine Learning Success is not in what you have, but who you are. I find that the harder I work, the more luck I seem to have. Artificial Intelligence Zero Downtime Deployment Cloud Frontend Success doesn’t just find you. You have to go out and get it. Message Queue
 Multi-threading Act as if what you do makes a difference. It does. IoT Innovation distinguishes between a leader and a follower. DevOps OAuth
 Difficult roads often lead to beautiful destinations. Performance Algorithm Event-driven Architecture Version Control Content Delivery Network Zero Downtime Deployment Neural Networks
+Scalability NLP Success is how high you bounce when you hit bottom. Happiness is not something ready made. It comes from your own actions. Difficult roads often lead to beautiful destinations. Pull Request Act as if what you do makes a difference. It does.

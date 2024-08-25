@@ -16,3 +16,4 @@ Data Science GraphQL Code Review React Replica Set Zero Downtime Deployment Cont
 Stay hungry, stay foolish. Monitoring Virtual Machines Code Review NLP Backend
 Backend Database Deployment Optimization JavaScript Cache Invalidation Algorithm Success doesn’t just find you. You have to go out and get it. Security Stay hungry, stay foolish. Automation Distributed Systems Predictive Analytics
 Sharding Dream big and dare to fail. NLP Cache Invalidation Containerization Simplicity is the ultimate sophistication. Load Testing Act as if what you do makes a difference. It does.
+Kafka Quantum Computing Distributed Systems Optimization Agile Success is not in what you have, but who you are. Dream big and dare to fail. Machine Learning Success is how high you bounce when you hit bottom. IoT OAuth Event-driven Architecture Simplicity is the ultimate sophistication. Database Indexing Data Pipeline
