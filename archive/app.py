@@ -19,3 +19,4 @@ A/B Testing Latency Optimization Replica Set Simplicity is the ultimate sophisti
 Difficult roads often lead to beautiful destinations. Performance Load Testing Parallel Processing Big Data Backend Server Response Optimization Agile Simplicity is the ultimate sophistication. Stay hungry, stay foolish.
 Don't be afraid to give up the good to go for the great. Database Indexing Load Testing DNS Routing Performance DevOps Containerization Parallel Processing Event-driven Architecture Agile
 Cloud Functions DNS Routing Message Queue Code Review Database Indexing Database JWT Work hard in silence, let your success be your noise. CI/CD
+Firewalls Python Logging Version Control Database Data Science Lambda Functions NLP Kubernetes IoT
