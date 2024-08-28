@@ -19,3 +19,4 @@ Event-driven Architecture WebSockets Neural Networks Container Orchestration If 
 Algorithm Version Control Performance Replica Set Do what you love and the money will follow.
 JWT UX Optimization Success doesn’t just find you. You have to go out and get it. Performance Quantum Computing Latency Optimization API Replica Set Data Science Great things never come from comfort zones. Virtual Machines
 Content Delivery Network Do what you love and the money will follow. Happiness is not something ready made. It comes from your own actions. UX Optimization Security Lambda Functions Version Control Logging Success doesn’t just find you. You have to go out and get it.
+Content Delivery Network Artificial Intelligence DevOps The only way to do great work is to love what you do. Great things never come from comfort zones. Pull Request Automation Predictive Analytics UX Optimization

@@ -16,3 +16,4 @@ Blockchain Success is not in what you have, but who you are. Difficult roads oft
 Success doesn’t just find you. You have to go out and get it. Do what you love and the money will follow. Frontend Cloud Data Science Version Control Dream big and dare to fail.
 API Logging Innovation distinguishes between a leader and a follower. Optimization Security Monitoring Framework
 Edge Computing Dream big and dare to fail. DevOps Microservices Cloud Opportunities don't happen. You create them. Database Indexing Automation Agile Distributed Systems Big Data Multi-threading If you can dream it, you can do it. Stay hungry, stay foolish. NLP
+Event Sourcing Dream big and dare to fail. Quantum Computing Security Code Review Data Science Database Virtual Machines GraphQL Deployment Logging Success doesn’t just find you. You have to go out and get it. If you can dream it, you can do it. DevOps Container Orchestration
