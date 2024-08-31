@@ -24,3 +24,4 @@ Success usually comes to those who are too busy to be looking for it. Data Pipel
 Latency Optimization Container Orchestration Predictive Analytics Automation DevOps Logging Content Delivery Network
 Do what you love and the money will follow. Difficult roads often lead to beautiful destinations. The only way to do great work is to love what you do. Logging Server Response Cloud Functions Content Delivery Network Machine Learning JWT Database Deployment
 Event Sourcing Distributed Systems RabbitMQ Multi-threading Version Control Artificial Intelligence API Python Docker API Gateway
+Big Data Testing Difficult roads often lead to beautiful destinations. Docker Load Balancing Simplicity is the ultimate sophistication. Lambda Functions CI/CD Happiness is not something ready made. It comes from your own actions. JWT Frontend Do what you love and the money will follow. RabbitMQ Success usually comes to those who are too busy to be looking for it. Replica Set
