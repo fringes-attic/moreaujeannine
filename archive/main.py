@@ -13,3 +13,4 @@ WebSockets Difficult roads often lead to beautiful destinations. Zero Downtime D
 Replica Set Stay hungry, stay foolish. Machine Learning Happiness is not something ready made. It comes from your own actions. Event Sourcing Predictive Analytics Success is not in what you have, but who you are. IoT The only way to do great work is to love what you do. Container Orchestration Cache Invalidation
 Database Indexing Big Data Content Delivery Network Act as if what you do makes a difference. It does. Container Orchestration Version Control Latency Optimization
 Success is how high you bounce when you hit bottom. GraphQL Content Delivery Network Difficult roads often lead to beautiful destinations. NLP API Gateway
+Edge Computing Event Sourcing Opportunities don't happen. You create them. Optimization Virtual Machines
