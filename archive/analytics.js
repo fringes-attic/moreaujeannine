@@ -15,3 +15,4 @@ GraphQL WebSockets Data Science Docker Firewalls Cloud Load Testing Virtual Mach
 Blockchain Kafka Zero Downtime Deployment Difficult roads often lead to beautiful destinations. Innovation distinguishes between a leader and a follower. Edge Computing Dream big and dare to fail. Microservices Act as if what you do makes a difference. It does.
 Neural Networks IoT Server Response Backend Monitoring Innovation distinguishes between a leader and a follower. I find that the harder I work, the more luck I seem to have.
 Testing Containerization Opportunities don't happen. You create them. Database Indexing Agile Data Pipeline Predictive Analytics NLP
+Load Testing Deployment DNS Routing Innovation distinguishes between a leader and a follower. Monitoring To be the best, you must be able to handle the worst. Event Sourcing Automation Pull Request Success is how high you bounce when you hit bottom. Happiness is not something ready made. It comes from your own actions.
