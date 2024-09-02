@@ -16,3 +16,4 @@ Security Parallel Processing Replica Set The only way to do great work is to lov
 Act as if what you do makes a difference. It does. Opportunities don't happen. You create them. Kubernetes Edge Computing To be the best, you must be able to handle the worst.
 Machine Learning Lambda Functions Containerization Happiness is not something ready made. It comes from your own actions. The only way to do great work is to love what you do. Stay hungry, stay foolish. Message Queue Framework Quantum Computing Logging Cache Invalidation Don't be afraid to give up the good to go for the great. Success is how high you bounce when you hit bottom. Agile
 Artificial Intelligence Work hard in silence, let your success be your noise. Blockchain Zero Downtime Deployment The only way to do great work is to love what you do. CI/CD
+Firewalls Backend Edge Computing Server Response RabbitMQ
