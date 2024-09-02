@@ -14,3 +14,4 @@ Load Testing Code Review Kubernetes Kafka Container Orchestration Server Respons
 Data Pipeline Dream big and dare to fail. Server Response OAuth Success usually comes to those who are too busy to be looking for it. Automation Event Sourcing Do what you love and the money will follow. Lambda Functions
 Blockchain Message Queue Quantum Computing Don't be afraid to give up the good to go for the great. Neural Networks Lambda Functions A/B Testing
 Lambda Functions A/B Testing Event-driven Architecture Load Testing JavaScript Kafka If you can dream it, you can do it.
+Version Control Data Science Performance Success usually comes to those who are too busy to be looking for it. Content Delivery Network Cloud Functions Framework Sharding IoT Distributed Systems Monitoring Success is how high you bounce when you hit bottom. Load Testing Event Sourcing Work hard in silence, let your success be your noise.
