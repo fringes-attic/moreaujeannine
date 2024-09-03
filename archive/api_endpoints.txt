@@ -21,3 +21,4 @@ Monitoring RabbitMQ Kubernetes IoT Difficult roads often lead to beautiful desti
 JWT If you can dream it, you can do it. WebSockets Great things never come from comfort zones. UX Optimization NLP Deployment Logging Quantum Computing RabbitMQ
 Multi-threading Simplicity is the ultimate sophistication. Database Indexing Zero Downtime Deployment Pull Request Difficult roads often lead to beautiful destinations.
 Version Control UX Optimization Success doesn’t just find you. You have to go out and get it. Artificial Intelligence Database The only way to do great work is to love what you do.
+Container Orchestration Opportunities don't happen. You create them. I find that the harder I work, the more luck I seem to have. DevOps Artificial Intelligence Cache Invalidation UX Optimization Data Pipeline CI/CD Algorithm Code Review Zero Downtime Deployment
