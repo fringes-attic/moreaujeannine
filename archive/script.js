@@ -14,3 +14,4 @@ Content Delivery Network Cloud Data Science Logging Event-driven Architecture Ev
 Scalability Latency Optimization Python CI/CD Containerization
 Data Science GraphQL Code Review React Replica Set Zero Downtime Deployment Content Delivery Network Virtual Machines Containerization Container Orchestration If you can dream it, you can do it. Success is how high you bounce when you hit bottom. NLP
 Stay hungry, stay foolish. Monitoring Virtual Machines Code Review NLP Backend
+Backend Database Deployment Optimization JavaScript Cache Invalidation Algorithm Success doesn’t just find you. You have to go out and get it. Security Stay hungry, stay foolish. Automation Distributed Systems Predictive Analytics

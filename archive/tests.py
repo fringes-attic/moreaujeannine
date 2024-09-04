@@ -19,3 +19,4 @@ API NLP Container Orchestration Don't be afraid to give up the good to go for th
 Python Predictive Analytics Cache Invalidation Neural Networks Load Testing I find that the harder I work, the more luck I seem to have. Latency Optimization Framework Data Science
 WebSockets Opportunities don't happen. You create them. Stay hungry, stay foolish. IoT Zero Downtime Deployment Difficult roads often lead to beautiful destinations.
 I find that the harder I work, the more luck I seem to have. Success doesn’t just find you. You have to go out and get it. Backend Database Indexing Pull Request Event Sourcing Work hard in silence, let your success be your noise. Version Control Great things never come from comfort zones. Predictive Analytics
+Security Backend Agile Algorithm Message Queue Lambda Functions Great things never come from comfort zones. Do what you love and the money will follow. Kubernetes Kafka Cache Invalidation
