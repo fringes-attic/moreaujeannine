@@ -15,3 +15,4 @@ Zero Downtime Deployment Virtual Machines Optimization Data Pipeline Innovation 
 Blockchain Success is not in what you have, but who you are. Difficult roads often lead to beautiful destinations. Distributed Systems Python Logging Edge Computing I find that the harder I work, the more luck I seem to have. Message Queue Performance
 Success doesn’t just find you. You have to go out and get it. Do what you love and the money will follow. Frontend Cloud Data Science Version Control Dream big and dare to fail.
 API Logging Innovation distinguishes between a leader and a follower. Optimization Security Monitoring Framework
+Edge Computing Dream big and dare to fail. DevOps Microservices Cloud Opportunities don't happen. You create them. Database Indexing Automation Agile Distributed Systems Big Data Multi-threading If you can dream it, you can do it. Stay hungry, stay foolish. NLP

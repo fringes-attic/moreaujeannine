@@ -13,3 +13,4 @@ Event-driven Architecture NLP Dream big and dare to fail. DNS Routing Python Neu
 Agile NLP GraphQL Automation Quantum Computing Dream big and dare to fail. Python Edge Computing Simplicity is the ultimate sophistication.
 GraphQL WebSockets Data Science Docker Firewalls Cloud Load Testing Virtual Machines Database Indexing JWT
 Blockchain Kafka Zero Downtime Deployment Difficult roads often lead to beautiful destinations. Innovation distinguishes between a leader and a follower. Edge Computing Dream big and dare to fail. Microservices Act as if what you do makes a difference. It does.
+Neural Networks IoT Server Response Backend Monitoring Innovation distinguishes between a leader and a follower. I find that the harder I work, the more luck I seem to have.
