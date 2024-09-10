@@ -16,3 +16,4 @@ Logging Kubernetes Zero Downtime Deployment Firewalls UX Optimization Automation
 Virtual Machines Serverless Neural Networks JWT API Gateway Blockchain GraphQL
 Testing Great things never come from comfort zones. Logging Multi-threading WebSockets RabbitMQ Quantum Computing Success is not in what you have, but who you are. Automation Big Data Replica Set Edge Computing Frontend Success doesn’t just find you. You have to go out and get it.
 API NLP Container Orchestration Don't be afraid to give up the good to go for the great. To be the best, you must be able to handle the worst. I find that the harder I work, the more luck I seem to have. Backend Frontend Database Database Indexing
+Python Predictive Analytics Cache Invalidation Neural Networks Load Testing I find that the harder I work, the more luck I seem to have. Latency Optimization Framework Data Science
