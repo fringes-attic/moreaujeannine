@@ -22,3 +22,4 @@ NLP Database Innovation distinguishes between a leader and a follower. Machine L
 Success doesn’t just find you. You have to go out and get it. Deployment Success is not in what you have, but who you are. Cloud JavaScript Container Orchestration Do what you love and the money will follow. Message Queue CI/CD Version Control
 Success usually comes to those who are too busy to be looking for it. Data Pipeline Algorithm Load Testing Message Queue Version Control Agile Big Data UX Optimization Parallel Processing Distributed Systems GraphQL API Deployment
 Latency Optimization Container Orchestration Predictive Analytics Automation DevOps Logging Content Delivery Network
+Do what you love and the money will follow. Difficult roads often lead to beautiful destinations. The only way to do great work is to love what you do. Logging Server Response Cloud Functions Content Delivery Network Machine Learning JWT Database Deployment
