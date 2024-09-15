@@ -11,3 +11,4 @@ Frontend Kafka Optimization The only way to do great work is to love what you do
 Work hard in silence, let your success be your noise. Container Orchestration Agile Optimization Data Pipeline Great things never come from comfort zones. Happiness is not something ready made. It comes from your own actions. Don't be afraid to give up the good to go for the great.
 IoT CI/CD Database Indexing Work hard in silence, let your success be your noise. Lambda Functions Big Data Performance
 Multi-threading Neural Networks Do what you love and the money will follow. Replica Set Sharding Act as if what you do makes a difference. It does.
+Multi-threading Great things never come from comfort zones. Load Testing Sharding RabbitMQ Docker JWT Python DNS Routing
