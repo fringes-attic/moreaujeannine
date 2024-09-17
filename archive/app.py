@@ -13,3 +13,4 @@ Quantum Computing RabbitMQ Cloud Functions Predictive Analytics The only way to 
 Machine Learning API Gateway Algorithm Distributed Systems Security Testing Cloud Functions Firewalls
 Data Pipeline Event-driven Architecture Algorithm I find that the harder I work, the more luck I seem to have. IoT Distributed Systems
 Data Science Optimization NLP Container Orchestration API Gateway Latency Optimization Firewalls Dream big and dare to fail. Testing
+Pull Request Containerization Simplicity is the ultimate sophistication. To be the best, you must be able to handle the worst. Load Testing Quantum Computing Optimization API Gateway Framework Dream big and dare to fail. API Do what you love and the money will follow.
