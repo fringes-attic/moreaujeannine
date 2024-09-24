@@ -8,3 +8,4 @@ UX Optimization Happiness is not something ready made. It comes from your own ac
 Container Orchestration Virtual Machines Quantum Computing Containerization The only way to do great work is to love what you do.
 Difficult roads often lead to beautiful destinations. Data Pipeline Performance Predictive Analytics Cloud Zero Downtime Deployment Python Stay hungry, stay foolish. Pull Request Act as if what you do makes a difference. It does. Version Control DNS Routing
 Latency Optimization Database Indexing Neural Networks API Gateway OAuth Stay hungry, stay foolish. Do what you love and the money will follow. Machine Learning Replica Set Predictive Analytics Virtual Machines Message Queue
+Work hard in silence, let your success be your noise. NLP JWT Message Queue Big Data Frontend Great things never come from comfort zones. Parallel Processing Python Replica Set Success doesn’t just find you. You have to go out and get it. Framework Serverless
