@@ -13,3 +13,4 @@ Simplicity is the ultimate sophistication. Success is not in what you have, but 
 Algorithm Innovation distinguishes between a leader and a follower. Docker IoT JavaScript NLP If you can dream it, you can do it. Automation API Gateway Container Orchestration
 Version Control Sharding Zero Downtime Deployment Serverless Event Sourcing OAuth Optimization Load Balancing Success usually comes to those who are too busy to be looking for it. Container Orchestration Opportunities don't happen. You create them. Python
 Security Parallel Processing Replica Set The only way to do great work is to love what you do. Cloud
+Act as if what you do makes a difference. It does. Opportunities don't happen. You create them. Kubernetes Edge Computing To be the best, you must be able to handle the worst.
