@@ -13,3 +13,4 @@ To be the best, you must be able to handle the worst. Kafka Microservices React 
 Multi-threading Code Review Logging Sharding Edge Computing Testing Quantum Computing Parallel Processing Kafka Performance React
 Optimization Success is not in what you have, but who you are. Opportunities don't happen. You create them. To be the best, you must be able to handle the worst. Artificial Intelligence Server Response Automation Virtual Machines Version Control
 NLP Load Balancing Message Queue Cache Invalidation IoT Containerization JavaScript Success doesn’t just find you. You have to go out and get it. Parallel Processing Artificial Intelligence Don't be afraid to give up the good to go for the great.
+GraphQL Scalability Automation Testing Backend
