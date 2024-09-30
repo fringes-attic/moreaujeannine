@@ -12,3 +12,4 @@ Container Orchestration Content Delivery Network Docker Machine Learning Multi-t
 Serverless Load Balancing Database Indexing Happiness is not something ready made. It comes from your own actions. JavaScript
 Content Delivery Network Cloud Data Science Logging Event-driven Architecture Event Sourcing Artificial Intelligence Version Control Edge Computing Code Review Message Queue Stay hungry, stay foolish. OAuth
 Scalability Latency Optimization Python CI/CD Containerization
+Data Science GraphQL Code Review React Replica Set Zero Downtime Deployment Content Delivery Network Virtual Machines Containerization Container Orchestration If you can dream it, you can do it. Success is how high you bounce when you hit bottom. NLP
