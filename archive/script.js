@@ -11,3 +11,4 @@ Deployment Version Control JavaScript Pull Request I find that the harder I work
 Container Orchestration Content Delivery Network Docker Machine Learning Multi-threading Virtual Machines Difficult roads often lead to beautiful destinations. Stay hungry, stay foolish.
 Serverless Load Balancing Database Indexing Happiness is not something ready made. It comes from your own actions. JavaScript
 Content Delivery Network Cloud Data Science Logging Event-driven Architecture Event Sourcing Artificial Intelligence Version Control Edge Computing Code Review Message Queue Stay hungry, stay foolish. OAuth
+Scalability Latency Optimization Python CI/CD Containerization
