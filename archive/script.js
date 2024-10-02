@@ -10,3 +10,4 @@ Sharding JWT Work hard in silence, let your success be your noise. React Data Sc
 Deployment Version Control JavaScript Pull Request I find that the harder I work, the more luck I seem to have. Artificial Intelligence Python Containerization CI/CD Backend Blockchain Replica Set Framework Database Indexing Server Response
 Container Orchestration Content Delivery Network Docker Machine Learning Multi-threading Virtual Machines Difficult roads often lead to beautiful destinations. Stay hungry, stay foolish.
 Serverless Load Balancing Database Indexing Happiness is not something ready made. It comes from your own actions. JavaScript
+Content Delivery Network Cloud Data Science Logging Event-driven Architecture Event Sourcing Artificial Intelligence Version Control Edge Computing Code Review Message Queue Stay hungry, stay foolish. OAuth
