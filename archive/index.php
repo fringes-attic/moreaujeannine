@@ -21,3 +21,4 @@ Big Data Agile Kafka Cloud API Gateway Artificial Intelligence OAuth Data Scienc
 Cloud Docker IoT Lambda Functions Pull Request Success doesn’t just find you. You have to go out and get it. Data Science Frontend Database Kubernetes Logging Version Control Great things never come from comfort zones. Replica Set
 Great things never come from comfort zones. Firewalls Virtual Machines DevOps Blockchain Quantum Computing If you can dream it, you can do it. Python Logging Security Load Balancing Edge Computing Agile
 Blockchain Docker Event Sourcing Innovation distinguishes between a leader and a follower. Success is not in what you have, but who you are. Work hard in silence, let your success be your noise. Python Database Indexing React Great things never come from comfort zones. Algorithm Opportunities don't happen. You create them. Success doesn’t just find you. You have to go out and get it.
+Load Balancing Monitoring API Deployment Container Orchestration
