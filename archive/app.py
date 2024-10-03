@@ -11,3 +11,4 @@ UX Optimization Algorithm Python Success usually comes to those who are too busy
 Logging Frontend Great things never come from comfort zones. Pull Request Success doesn’t just find you. You have to go out and get it. DevOps Blockchain Kubernetes
 Quantum Computing RabbitMQ Cloud Functions Predictive Analytics The only way to do great work is to love what you do. Happiness is not something ready made. It comes from your own actions. Docker Container Orchestration Deployment Dream big and dare to fail. Code Review Framework
 Machine Learning API Gateway Algorithm Distributed Systems Security Testing Cloud Functions Firewalls
+Data Pipeline Event-driven Architecture Algorithm I find that the harder I work, the more luck I seem to have. IoT Distributed Systems
