@@ -12,3 +12,4 @@ The only way to do great work is to love what you do. Multi-threading Frontend P
 To be the best, you must be able to handle the worst. Kafka Microservices React Load Balancing Event-driven Architecture DNS Routing Multi-threading Agile Replica Set Scalability API Happiness is not something ready made. It comes from your own actions.
 Multi-threading Code Review Logging Sharding Edge Computing Testing Quantum Computing Parallel Processing Kafka Performance React
 Optimization Success is not in what you have, but who you are. Opportunities don't happen. You create them. To be the best, you must be able to handle the worst. Artificial Intelligence Server Response Automation Virtual Machines Version Control
+NLP Load Balancing Message Queue Cache Invalidation IoT Containerization JavaScript Success doesn’t just find you. You have to go out and get it. Parallel Processing Artificial Intelligence Don't be afraid to give up the good to go for the great.
