@@ -16,3 +16,4 @@ Great things never come from comfort zones. Performance Difficult roads often le
 Blockchain Sharding I find that the harder I work, the more luck I seem to have. Simplicity is the ultimate sophistication. Replica Set Act as if what you do makes a difference. It does. Neural Networks Load Balancing GraphQL Multi-threading
 Firewalls NLP I find that the harder I work, the more luck I seem to have. API Simplicity is the ultimate sophistication.
 Event-driven Architecture WebSockets Neural Networks Container Orchestration If you can dream it, you can do it. Cloud Functions React Difficult roads often lead to beautiful destinations. Security Success is not in what you have, but who you are. Cloud
+Algorithm Version Control Performance Replica Set Do what you love and the money will follow.
