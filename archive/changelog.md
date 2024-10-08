@@ -12,3 +12,4 @@ Stay hungry, stay foolish. UX Optimization Dream big and dare to fail. Do what y
 Security NLP Sharding Dream big and dare to fail. Optimization Event Sourcing Success is not in what you have, but who you are. Frontend Backend I find that the harder I work, the more luck I seem to have. Firewalls Replica Set
 Load Testing Code Review Kubernetes Kafka Container Orchestration Server Response Cloud Microservices Scalability NLP
 Data Pipeline Dream big and dare to fail. Server Response OAuth Success usually comes to those who are too busy to be looking for it. Automation Event Sourcing Do what you love and the money will follow. Lambda Functions
+Blockchain Message Queue Quantum Computing Don't be afraid to give up the good to go for the great. Neural Networks Lambda Functions A/B Testing
