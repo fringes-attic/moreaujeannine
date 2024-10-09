@@ -8,3 +8,4 @@ CI/CD Code Review Version Control Work hard in silence, let your success be your
 Success doesn’t just find you. You have to go out and get it. Happiness is not something ready made. It comes from your own actions. Distributed Systems Frontend Docker Cache Invalidation Microservices
 Simplicity is the ultimate sophistication. Big Data Pull Request Firewalls Cloud Functions Python Deployment Success usually comes to those who are too busy to be looking for it. Parallel Processing Kafka If you can dream it, you can do it.
 Frontend Kafka Optimization The only way to do great work is to love what you do. Deployment Serverless Simplicity is the ultimate sophistication. Database
+Work hard in silence, let your success be your noise. Container Orchestration Agile Optimization Data Pipeline Great things never come from comfort zones. Happiness is not something ready made. It comes from your own actions. Don't be afraid to give up the good to go for the great.
