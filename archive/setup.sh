@@ -15,3 +15,4 @@ Opportunities don't happen. You create them. Scalability Monitoring Lambda Funct
 Big Data Scalability Agile I find that the harder I work, the more luck I seem to have. Content Delivery Network Kubernetes
 Code Review Happiness is not something ready made. It comes from your own actions. Great things never come from comfort zones. Event Sourcing Zero Downtime Deployment If you can dream it, you can do it.
 Data Pipeline API Gateway Do what you love and the money will follow. Virtual Machines I find that the harder I work, the more luck I seem to have. Database Indexing Lambda Functions Deployment GraphQL Predictive Analytics Server Response IoT
+Success doesn’t just find you. You have to go out and get it. Kubernetes Serverless CI/CD Containerization Database Indexing If you can dream it, you can do it.

@@ -11,3 +11,4 @@ If you can dream it, you can do it. Algorithm Simplicity is the ultimate sophist
 Data Pipeline Cloud Testing Do what you love and the money will follow. Code Review Act as if what you do makes a difference. It does. Event Sourcing Replica Set JavaScript Firewalls Lambda Functions Version Control Monitoring
 Event-driven Architecture NLP Dream big and dare to fail. DNS Routing Python Neural Networks Firewalls CI/CD The only way to do great work is to love what you do. Containerization Agile
 Agile NLP GraphQL Automation Quantum Computing Dream big and dare to fail. Python Edge Computing Simplicity is the ultimate sophistication.
+GraphQL WebSockets Data Science Docker Firewalls Cloud Load Testing Virtual Machines Database Indexing JWT
