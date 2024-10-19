@@ -11,3 +11,4 @@ OAuth Container Orchestration Event-driven Architecture Kafka IoT RabbitMQ To be
 Event-driven Architecture Security Docker React IoT Load Balancing Optimization Deployment Happiness is not something ready made. It comes from your own actions. Don't be afraid to give up the good to go for the great. Cloud The only way to do great work is to love what you do.
 Simplicity is the ultimate sophistication. Success is not in what you have, but who you are. Cache Invalidation WebSockets Replica Set Blockchain DNS Routing
 Algorithm Innovation distinguishes between a leader and a follower. Docker IoT JavaScript NLP If you can dream it, you can do it. Automation API Gateway Container Orchestration
+Version Control Sharding Zero Downtime Deployment Serverless Event Sourcing OAuth Optimization Load Balancing Success usually comes to those who are too busy to be looking for it. Container Orchestration Opportunities don't happen. You create them. Python
