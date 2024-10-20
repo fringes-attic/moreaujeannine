@@ -10,3 +10,4 @@ Stay hungry, stay foolish. Blockchain Load Balancing Act as if what you do makes
 UX Optimization Algorithm Python Success usually comes to those who are too busy to be looking for it. Event-driven Architecture NLP Predictive Analytics The only way to do great work is to love what you do. Big Data Virtual Machines Database Indexing
 Logging Frontend Great things never come from comfort zones. Pull Request Success doesn’t just find you. You have to go out and get it. DevOps Blockchain Kubernetes
 Quantum Computing RabbitMQ Cloud Functions Predictive Analytics The only way to do great work is to love what you do. Happiness is not something ready made. It comes from your own actions. Docker Container Orchestration Deployment Dream big and dare to fail. Code Review Framework
+Machine Learning API Gateway Algorithm Distributed Systems Security Testing Cloud Functions Firewalls
