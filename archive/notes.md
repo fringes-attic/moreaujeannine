@@ -13,3 +13,4 @@ Don't be afraid to give up the good to go for the great. Microservices Version C
 Deployment Python Artificial Intelligence Virtual Machines Testing Event-driven Architecture WebSockets Quantum Computing Version Control
 Zero Downtime Deployment Virtual Machines Optimization Data Pipeline Innovation distinguishes between a leader and a follower.
 Blockchain Success is not in what you have, but who you are. Difficult roads often lead to beautiful destinations. Distributed Systems Python Logging Edge Computing I find that the harder I work, the more luck I seem to have. Message Queue Performance
+Success doesn’t just find you. You have to go out and get it. Do what you love and the money will follow. Frontend Cloud Data Science Version Control Dream big and dare to fail.
