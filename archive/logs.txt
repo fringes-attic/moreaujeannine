@@ -9,3 +9,4 @@ Artificial Intelligence Version Control Replica Set WebSockets Content Delivery 
 Security Firewalls Database Indexing NLP Event Sourcing Replica Set Predictive Analytics Load Testing IoT
 Version Control Innovation distinguishes between a leader and a follower. DNS Routing Data Pipeline Happiness is not something ready made. It comes from your own actions. To be the best, you must be able to handle the worst. Scalability IoT Content Delivery Network
 The only way to do great work is to love what you do. Multi-threading Frontend Predictive Analytics NLP Deployment Kafka Microservices Do what you love and the money will follow.
+To be the best, you must be able to handle the worst. Kafka Microservices React Load Balancing Event-driven Architecture DNS Routing Multi-threading Agile Replica Set Scalability API Happiness is not something ready made. It comes from your own actions.
