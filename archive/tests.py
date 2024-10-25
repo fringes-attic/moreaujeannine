@@ -11,3 +11,4 @@ Virtual Machines Big Data Scalability Microservices Great things never come from
 Sharding Content Delivery Network Message Queue Data Science CI/CD
 JavaScript Backend Code Review Sharding Cloud Functions Server Response Database
 UX Optimization GraphQL Automation DNS Routing Big Data Serverless Microservices Success usually comes to those who are too busy to be looking for it. Message Queue Database
+OAuth The only way to do great work is to love what you do. Deployment Optimization IoT Work hard in silence, let your success be your noise. DevOps I find that the harder I work, the more luck I seem to have. Blockchain Quantum Computing Big Data Database Indexing Opportunities don't happen. You create them. Agile Great things never come from comfort zones.
