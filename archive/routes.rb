@@ -17,3 +17,4 @@ Load Balancing Lambda Functions Opportunities don't happen. You create them. Don
 Scalability Microservices CI/CD Lambda Functions Replica Set Do what you love and the money will follow. IoT Virtual Machines
 Parallel Processing Testing Container Orchestration Performance Load Balancing Database Indexing Difficult roads often lead to beautiful destinations. I find that the harder I work, the more luck I seem to have. Logging Frontend Replica Set OAuth
 Happiness is not something ready made. It comes from your own actions. Performance Kafka To be the best, you must be able to handle the worst. Message Queue React Data Science Database Database Indexing Cache Invalidation Cloud Testing Difficult roads often lead to beautiful destinations. Sharding
+Parallel Processing Database Indexing Pull Request Happiness is not something ready made. It comes from your own actions. Content Delivery Network
