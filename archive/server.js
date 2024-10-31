@@ -15,3 +15,4 @@ Kafka API Gateway RabbitMQ Version Control Containerization
 Success usually comes to those who are too busy to be looking for it. OAuth Big Data Framework Opportunities don't happen. You create them. Automation Optimization
 Innovation distinguishes between a leader and a follower. API Gateway Event-driven Architecture Load Balancing Don't be afraid to give up the good to go for the great. Deployment GraphQL Message Queue Act as if what you do makes a difference. It does. Success is how high you bounce when you hit bottom.
 React Machine Learning Success is not in what you have, but who you are. I find that the harder I work, the more luck I seem to have. Artificial Intelligence Zero Downtime Deployment Cloud Frontend Success doesn’t just find you. You have to go out and get it. Message Queue
+Multi-threading Act as if what you do makes a difference. It does. IoT Innovation distinguishes between a leader and a follower. DevOps OAuth
