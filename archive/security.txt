@@ -5,3 +5,4 @@ Zero Downtime Deployment Virtual Machines Cache Invalidation API Gateway IoT Lat
 JavaScript Content Delivery Network Great things never come from comfort zones. Load Balancing Framework
 Testing Load Balancing Edge Computing Machine Learning API DNS Routing Database Cloud Deployment NLP
 Zero Downtime Deployment Simplicity is the ultimate sophistication. Success is not in what you have, but who you are. Edge Computing CI/CD Content Delivery Network React
+CI/CD WebSockets Simplicity is the ultimate sophistication. Data Science Testing Algorithm I find that the harder I work, the more luck I seem to have. Optimization Kafka Big Data Great things never come from comfort zones.
