@@ -10,3 +10,4 @@ Distributed Systems Happiness is not something ready made. It comes from your ow
 Dream big and dare to fail. Neural Networks Kubernetes Opportunities don't happen. You create them. Backend Server Response UX Optimization DNS Routing Firewalls Database API Sharding Big Data CI/CD
 Stay hungry, stay foolish. UX Optimization Dream big and dare to fail. Do what you love and the money will follow. Message Queue I find that the harder I work, the more luck I seem to have.
 Security NLP Sharding Dream big and dare to fail. Optimization Event Sourcing Success is not in what you have, but who you are. Frontend Backend I find that the harder I work, the more luck I seem to have. Firewalls Replica Set
+Load Testing Code Review Kubernetes Kafka Container Orchestration Server Response Cloud Microservices Scalability NLP
