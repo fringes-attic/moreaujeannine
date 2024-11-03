@@ -13,3 +13,4 @@ OAuth Blockchain Message Queue Multi-threading Automation Lambda Functions Load 
 Pull Request Do what you love and the money will follow. DevOps Machine Learning Python
 Kafka API Gateway RabbitMQ Version Control Containerization
 Success usually comes to those who are too busy to be looking for it. OAuth Big Data Framework Opportunities don't happen. You create them. Automation Optimization
+Innovation distinguishes between a leader and a follower. API Gateway Event-driven Architecture Load Balancing Don't be afraid to give up the good to go for the great. Deployment GraphQL Message Queue Act as if what you do makes a difference. It does. Success is how high you bounce when you hit bottom.

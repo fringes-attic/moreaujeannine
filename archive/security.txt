@@ -4,3 +4,4 @@ Simplicity is the ultimate sophistication. DNS Routing Sharding Message Queue Da
 Zero Downtime Deployment Virtual Machines Cache Invalidation API Gateway IoT Latency Optimization Happiness is not something ready made. It comes from your own actions. WebSockets Kafka
 JavaScript Content Delivery Network Great things never come from comfort zones. Load Balancing Framework
 Testing Load Balancing Edge Computing Machine Learning API DNS Routing Database Cloud Deployment NLP
+Zero Downtime Deployment Simplicity is the ultimate sophistication. Success is not in what you have, but who you are. Edge Computing CI/CD Content Delivery Network React
