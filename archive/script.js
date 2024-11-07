@@ -8,3 +8,4 @@ Testing Do what you love and the money will follow. Containerization Serverless 
 Frontend Big Data Simplicity is the ultimate sophistication. Backend DNS Routing Data Pipeline API Gateway
 Sharding JWT Work hard in silence, let your success be your noise. React Data Science Backend A/B Testing Scalability Do what you love and the money will follow. Opportunities don't happen. You create them. Parallel Processing
 Deployment Version Control JavaScript Pull Request I find that the harder I work, the more luck I seem to have. Artificial Intelligence Python Containerization CI/CD Backend Blockchain Replica Set Framework Database Indexing Server Response
+Container Orchestration Content Delivery Network Docker Machine Learning Multi-threading Virtual Machines Difficult roads often lead to beautiful destinations. Stay hungry, stay foolish.
