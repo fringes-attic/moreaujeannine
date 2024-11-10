@@ -12,3 +12,4 @@ Success usually comes to those who are too busy to be looking for it. A/B Testin
 Don't be afraid to give up the good to go for the great. Microservices Version Control Pull Request DevOps Quantum Computing Do what you love and the money will follow. Parallel Processing Message Queue Replica Set Simplicity is the ultimate sophistication. Predictive Analytics Automation JWT
 Deployment Python Artificial Intelligence Virtual Machines Testing Event-driven Architecture WebSockets Quantum Computing Version Control
 Zero Downtime Deployment Virtual Machines Optimization Data Pipeline Innovation distinguishes between a leader and a follower.
+Blockchain Success is not in what you have, but who you are. Difficult roads often lead to beautiful destinations. Distributed Systems Python Logging Edge Computing I find that the harder I work, the more luck I seem to have. Message Queue Performance
