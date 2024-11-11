@@ -8,3 +8,4 @@ Kubernetes WebSockets GraphQL Edge Computing Opportunities don't happen. You cre
 Don't be afraid to give up the good to go for the great. Predictive Analytics Simplicity is the ultimate sophistication. Container Orchestration Success usually comes to those who are too busy to be looking for it. Automation Performance Kafka
 To be the best, you must be able to handle the worst. UX Optimization Cloud Event-driven Architecture Cloud Functions Database Indexing Kafka DNS Routing
 OAuth Container Orchestration Event-driven Architecture Kafka IoT RabbitMQ To be the best, you must be able to handle the worst. Version Control Edge Computing
+Event-driven Architecture Security Docker React IoT Load Balancing Optimization Deployment Happiness is not something ready made. It comes from your own actions. Don't be afraid to give up the good to go for the great. Cloud The only way to do great work is to love what you do.
