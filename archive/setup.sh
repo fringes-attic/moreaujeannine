@@ -13,3 +13,4 @@ Lambda Functions Success is how high you bounce when you hit bottom. Great thing
 WebSockets UX Optimization Version Control Distributed Systems Data Pipeline If you can dream it, you can do it. Server Response To be the best, you must be able to handle the worst. Machine Learning Logging
 Opportunities don't happen. You create them. Scalability Monitoring Lambda Functions React Stay hungry, stay foolish. Python Don't be afraid to give up the good to go for the great. Success usually comes to those who are too busy to be looking for it. Load Balancing
 Big Data Scalability Agile I find that the harder I work, the more luck I seem to have. Content Delivery Network Kubernetes
+Code Review Happiness is not something ready made. It comes from your own actions. Great things never come from comfort zones. Event Sourcing Zero Downtime Deployment If you can dream it, you can do it.
