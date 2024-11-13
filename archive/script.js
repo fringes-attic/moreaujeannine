@@ -7,3 +7,4 @@ Sharding API Gateway Deployment Distributed Systems Python Event-driven Architec
 Testing Do what you love and the money will follow. Containerization Serverless Event Sourcing Security Pull Request Edge Computing Success doesn’t just find you. You have to go out and get it. A/B Testing NLP Event-driven Architecture Kafka
 Frontend Big Data Simplicity is the ultimate sophistication. Backend DNS Routing Data Pipeline API Gateway
 Sharding JWT Work hard in silence, let your success be your noise. React Data Science Backend A/B Testing Scalability Do what you love and the money will follow. Opportunities don't happen. You create them. Parallel Processing
+Deployment Version Control JavaScript Pull Request I find that the harder I work, the more luck I seem to have. Artificial Intelligence Python Containerization CI/CD Backend Blockchain Replica Set Framework Database Indexing Server Response
