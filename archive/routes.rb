@@ -13,3 +13,4 @@ Cache Invalidation A/B Testing Docker Database Indexing DNS Routing CI/CD If you
 API Gateway OAuth Testing Agile JWT Automation Machine Learning Do what you love and the money will follow. UX Optimization
 Big Data Zero Downtime Deployment Quantum Computing Automation Simplicity is the ultimate sophistication. Security Happiness is not something ready made. It comes from your own actions.
 Simplicity is the ultimate sophistication. JWT Docker Database Indexing Load Balancing Version Control Event Sourcing API Gateway If you can dream it, you can do it. Parallel Processing OAuth Dream big and dare to fail. Data Pipeline Success is how high you bounce when you hit bottom. Python
+Load Balancing Lambda Functions Opportunities don't happen. You create them. Don't be afraid to give up the good to go for the great. Content Delivery Network Monitoring Python Sharding Agile
