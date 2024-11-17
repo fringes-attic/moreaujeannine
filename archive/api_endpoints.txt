@@ -14,3 +14,4 @@ Pull Request Algorithm Sharding Neural Networks Agile Simplicity is the ultimate
 Load Balancing Artificial Intelligence Testing JavaScript Frontend Success doesn’t just find you. You have to go out and get it. CI/CD Dream big and dare to fail. Kubernetes A/B Testing Event Sourcing
 Server Response Opportunities don't happen. You create them. Frontend Code Review Edge Computing
 Great things never come from comfort zones. Quantum Computing Happiness is not something ready made. It comes from your own actions. Predictive Analytics Sharding Serverless JWT Lambda Functions Act as if what you do makes a difference. It does. Python
+JWT Testing Success is how high you bounce when you hit bottom. CI/CD Virtual Machines To be the best, you must be able to handle the worst. Kafka Sharding Innovation distinguishes between a leader and a follower. Do what you love and the money will follow. Act as if what you do makes a difference. It does. Content Delivery Network Cloud
