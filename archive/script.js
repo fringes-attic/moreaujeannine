@@ -6,3 +6,4 @@ I find that the harder I work, the more luck I seem to have. Lambda Functions Py
 Sharding API Gateway Deployment Distributed Systems Python Event-driven Architecture Data Pipeline Pull Request
 Testing Do what you love and the money will follow. Containerization Serverless Event Sourcing Security Pull Request Edge Computing Success doesn’t just find you. You have to go out and get it. A/B Testing NLP Event-driven Architecture Kafka
 Frontend Big Data Simplicity is the ultimate sophistication. Backend DNS Routing Data Pipeline API Gateway
+Sharding JWT Work hard in silence, let your success be your noise. React Data Science Backend A/B Testing Scalability Do what you love and the money will follow. Opportunities don't happen. You create them. Parallel Processing
