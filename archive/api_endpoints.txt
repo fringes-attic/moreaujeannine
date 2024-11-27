@@ -10,3 +10,4 @@ A/B Testing Blockchain Zero Downtime Deployment Message Queue Act as if what you
 Parallel Processing Big Data Python Server Response Event Sourcing Simplicity is the ultimate sophistication. Kafka Database Code Review Opportunities don't happen. You create them. Do what you love and the money will follow.
 Deployment Content Delivery Network Algorithm Backend Don't be afraid to give up the good to go for the great.
 Load Balancing Serverless Blockchain RabbitMQ Server Response
+Pull Request Algorithm Sharding Neural Networks Agile Simplicity is the ultimate sophistication. Dream big and dare to fail. Security RabbitMQ Opportunities don't happen. You create them. Success usually comes to those who are too busy to be looking for it.

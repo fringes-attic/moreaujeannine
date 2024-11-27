@@ -4,3 +4,4 @@ Success usually comes to those who are too busy to be looking for it. DNS Routin
 DevOps Content Delivery Network Algorithm Optimization Security DNS Routing
 OAuth Predictive Analytics Cache Invalidation Microservices Difficult roads often lead to beautiful destinations. Sharding GraphQL Python Innovation distinguishes between a leader and a follower. Happiness is not something ready made. It comes from your own actions. Database Indexing A/B Testing Kubernetes UX Optimization
 Distributed Systems JWT Opportunities don't happen. You create them. Backend Predictive Analytics Work hard in silence, let your success be your noise.
+Success is not in what you have, but who you are. Big Data Frontend Message Queue Innovation distinguishes between a leader and a follower. Testing API Neural Networks
