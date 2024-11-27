@@ -3,3 +3,4 @@ Act as if what you do makes a difference. It does. Success usually comes to thos
 Simplicity is the ultimate sophistication. DNS Routing Sharding Message Queue Data Science Framework Backend Frontend Quantum Computing Deployment
 Zero Downtime Deployment Virtual Machines Cache Invalidation API Gateway IoT Latency Optimization Happiness is not something ready made. It comes from your own actions. WebSockets Kafka
 JavaScript Content Delivery Network Great things never come from comfort zones. Load Balancing Framework
+Testing Load Balancing Edge Computing Machine Learning API DNS Routing Database Cloud Deployment NLP

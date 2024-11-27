@@ -5,3 +5,4 @@ Data Pipeline Cloud Functions Kubernetes NLP Python Innovation distinguishes bet
 Load Testing Blockchain Distributed Systems JavaScript Security Success usually comes to those who are too busy to be looking for it. DNS Routing Microservices API Gateway Database CI/CD If you can dream it, you can do it. Serverless API
 Blockchain Success is not in what you have, but who you are. React Distributed Systems Data Science Serverless
 CI/CD Code Review Version Control Work hard in silence, let your success be your noise. Event-driven Architecture JWT Parallel Processing Backend Quantum Computing NLP Testing API To be the best, you must be able to handle the worst.
+Success doesn’t just find you. You have to go out and get it. Happiness is not something ready made. It comes from your own actions. Distributed Systems Frontend Docker Cache Invalidation Microservices
