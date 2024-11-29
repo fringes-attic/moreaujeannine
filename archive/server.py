@@ -4,3 +4,4 @@ Load Testing NLP Success is not in what you have, but who you are. Lambda Functi
 Data Pipeline Cloud Functions Kubernetes NLP Python Innovation distinguishes between a leader and a follower. Firewalls Success is how high you bounce when you hit bottom. GraphQL Lambda Functions Message Queue
 Load Testing Blockchain Distributed Systems JavaScript Security Success usually comes to those who are too busy to be looking for it. DNS Routing Microservices API Gateway Database CI/CD If you can dream it, you can do it. Serverless API
 Blockchain Success is not in what you have, but who you are. React Distributed Systems Data Science Serverless
+CI/CD Code Review Version Control Work hard in silence, let your success be your noise. Event-driven Architecture JWT Parallel Processing Backend Quantum Computing NLP Testing API To be the best, you must be able to handle the worst.
