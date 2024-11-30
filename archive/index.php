@@ -11,3 +11,4 @@ API DevOps Zero Downtime Deployment Innovation distinguishes between a leader an
 IoT Machine Learning Sharding Microservices Parallel Processing Big Data Latency Optimization Deployment
 Database Algorithm Stay hungry, stay foolish. Pull Request Zero Downtime Deployment Cloud Functions Cloud Event Sourcing Scalability Innovation distinguishes between a leader and a follower. Containerization IoT
 Success is how high you bounce when you hit bottom. OAuth Server Response Database Latency Optimization Difficult roads often lead to beautiful destinations. Lambda Functions Innovation distinguishes between a leader and a follower. Replica Set Blockchain Event-driven Architecture
+Code Review Do what you love and the money will follow. Monitoring Serverless Success usually comes to those who are too busy to be looking for it. Content Delivery Network Happiness is not something ready made. It comes from your own actions. Containerization IoT
