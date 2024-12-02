@@ -9,3 +9,4 @@ Optimization Virtual Machines IoT Edge Computing Replica Set Load Testing API
 Code Review Predictive Analytics Serverless Quantum Computing React Server Response Frontend Machine Learning CI/CD Version Control Blockchain I find that the harder I work, the more luck I seem to have.
 Virtual Machines Big Data Scalability Microservices Great things never come from comfort zones. Optimization Server Response Testing Event Sourcing Opportunities don't happen. You create them. API Firewalls JavaScript Difficult roads often lead to beautiful destinations. I find that the harder I work, the more luck I seem to have.
 Sharding Content Delivery Network Message Queue Data Science CI/CD
+JavaScript Backend Code Review Sharding Cloud Functions Server Response Database
