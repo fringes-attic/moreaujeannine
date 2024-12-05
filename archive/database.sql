@@ -9,3 +9,4 @@ Version Control Microservices Event Sourcing Message Queue Opportunities don't h
 Optimization Big Data JWT Server Response Firewalls Distributed Systems Pull Request Opportunities don't happen. You create them. API
 Automation Success doesn’t just find you. You have to go out and get it. Backend Do what you love and the money will follow. IoT DNS Routing Latency Optimization Logging Testing Performance Version Control Sharding A/B Testing
 Act as if what you do makes a difference. It does. Machine Learning Edge Computing Opportunities don't happen. You create them. Cloud NLP Kubernetes Success is not in what you have, but who you are. Monitoring Logging Difficult roads often lead to beautiful destinations. Database CI/CD
+Work hard in silence, let your success be your noise. Success doesn’t just find you. You have to go out and get it. Security Stay hungry, stay foolish. Replica Set Success is how high you bounce when you hit bottom.
