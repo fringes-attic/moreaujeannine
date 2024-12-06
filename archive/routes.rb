@@ -11,3 +11,4 @@ API Gateway Serverless Machine Learning If you can dream it, you can do it. Stay
 A/B Testing Database Optimization Code Review Agile DNS Routing Multi-threading Deployment Artificial Intelligence Cloud Act as if what you do makes a difference. It does.
 Cache Invalidation A/B Testing Docker Database Indexing DNS Routing CI/CD If you can dream it, you can do it. Distributed Systems Load Testing Backend DevOps
 API Gateway OAuth Testing Agile JWT Automation Machine Learning Do what you love and the money will follow. UX Optimization
+Big Data Zero Downtime Deployment Quantum Computing Automation Simplicity is the ultimate sophistication. Security Happiness is not something ready made. It comes from your own actions.
