@@ -9,3 +9,4 @@ Logging Backend Data Science Success doesn’t just find you. You have to go out a
 Container Orchestration Do what you love and the money will follow. Logging Deployment Optimization
 Security API GraphQL API Gateway RabbitMQ Scalability Work hard in silence, let your success be your noise. Content Delivery Network Container Orchestration Frontend
 Cache Invalidation Data Science Content Delivery Network Logging Opportunities don't happen. You create them. API NLP Monitoring Kafka
+Lambda Functions Success is how high you bounce when you hit bottom. Great things never come from comfort zones. I find that the harder I work, the more luck I seem to have. To be the best, you must be able to handle the worst. Automation Security Microservices JWT Do what you love and the money will follow. Data Science API
