@@ -11,3 +11,4 @@ DevOps Security Quantum Computing Great things never come from comfort zones. JW
 Monitoring Load Balancing Containerization UX Optimization I find that the harder I work, the more luck I seem to have. Performance Artificial Intelligence Microservices JavaScript Database Indexing Opportunities don't happen. You create them. Algorithm Security Don't be afraid to give up the good to go for the great. Deployment
 OAuth Blockchain Message Queue Multi-threading Automation Lambda Functions Load Testing Act as if what you do makes a difference. It does. Version Control Event-driven Architecture WebSockets DNS Routing Agile Work hard in silence, let your success be your noise.
 Pull Request Do what you love and the money will follow. DevOps Machine Learning Python
+Kafka API Gateway RabbitMQ Version Control Containerization
