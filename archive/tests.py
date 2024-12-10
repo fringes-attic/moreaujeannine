@@ -6,3 +6,4 @@ Zero Downtime Deployment Machine Learning Distributed Systems Multi-threading Co
 Deployment Scalability Docker Stay hungry, stay foolish. Work hard in silence, let your success be your noise. Lambda Functions Container Orchestration
 React Database Simplicity is the ultimate sophistication. Server Response The only way to do great work is to love what you do. Success usually comes to those who are too busy to be looking for it. Kafka Deployment API
 Optimization Virtual Machines IoT Edge Computing Replica Set Load Testing API
+Code Review Predictive Analytics Serverless Quantum Computing React Server Response Frontend Machine Learning CI/CD Version Control Blockchain I find that the harder I work, the more luck I seem to have.
