@@ -7,3 +7,4 @@ WebSockets Innovation distinguishes between a leader and a follower. Firewalls S
 Edge Computing Big Data Multi-threading Blockchain Distributed Systems Simplicity is the ultimate sophistication. Message Queue Automation Difficult roads often lead to beautiful destinations. Success doesn’t just find you. You have to go out and get it. Serverless
 Logging Backend Data Science Success doesn’t just find you. You have to go out and get it. JWT Work hard in silence, let your success be your noise. Container Orchestration Cache Invalidation Cloud Functions Containerization Multi-threading Firewalls Artificial Intelligence
 Container Orchestration Do what you love and the money will follow. Logging Deployment Optimization
+Security API GraphQL API Gateway RabbitMQ Scalability Work hard in silence, let your success be your noise. Content Delivery Network Container Orchestration Frontend
