@@ -5,3 +5,4 @@ Content Delivery Network Performance If you can dream it, you can do it. Big Dat
 Zero Downtime Deployment Machine Learning Distributed Systems Multi-threading Content Delivery Network Monitoring Neural Networks Kubernetes Work hard in silence, let your success be your noise. Scalability
 Deployment Scalability Docker Stay hungry, stay foolish. Work hard in silence, let your success be your noise. Lambda Functions Container Orchestration
 React Database Simplicity is the ultimate sophistication. Server Response The only way to do great work is to love what you do. Success usually comes to those who are too busy to be looking for it. Kafka Deployment API
+Optimization Virtual Machines IoT Edge Computing Replica Set Load Testing API
