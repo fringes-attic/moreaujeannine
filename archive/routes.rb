@@ -10,3 +10,4 @@ CI/CD Stay hungry, stay foolish. Virtual Machines Do what you love and the money
 API Gateway Serverless Machine Learning If you can dream it, you can do it. Stay hungry, stay foolish. Do what you love and the money will follow. Framework Success usually comes to those who are too busy to be looking for it. React DNS Routing GraphQL
 A/B Testing Database Optimization Code Review Agile DNS Routing Multi-threading Deployment Artificial Intelligence Cloud Act as if what you do makes a difference. It does.
 Cache Invalidation A/B Testing Docker Database Indexing DNS Routing CI/CD If you can dream it, you can do it. Distributed Systems Load Testing Backend DevOps
+API Gateway OAuth Testing Agile JWT Automation Machine Learning Do what you love and the money will follow. UX Optimization
