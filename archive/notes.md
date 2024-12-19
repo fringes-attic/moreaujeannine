@@ -5,3 +5,4 @@ Load Testing Multi-threading Performance NLP Backend
 API Load Balancing Difficult roads often lead to beautiful destinations. GraphQL The only way to do great work is to love what you do.
 JWT WebSockets Frontend Predictive Analytics Difficult roads often lead to beautiful destinations. Security A/B Testing Version Control Performance Distributed Systems Framework
 A/B Testing Work hard in silence, let your success be your noise. UX Optimization Multi-threading Logging Success doesn’t just find you. You have to go out and get it. Happiness is not something ready made. It comes from your own actions. Optimization RabbitMQ Agile
+Logging The only way to do great work is to love what you do. Multi-threading Work hard in silence, let your success be your noise. Data Science If you can dream it, you can do it. Algorithm Act as if what you do makes a difference. It does. Blockchain
