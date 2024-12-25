@@ -9,3 +9,4 @@ Data Pipeline Performance Scalability Latency Optimization Database Indexing Web
 Backend React Security Microservices Sharding Stay hungry, stay foolish. Edge Computing OAuth Opportunities don't happen. You create them.
 API DevOps Zero Downtime Deployment Innovation distinguishes between a leader and a follower. Cloud Functions Virtual Machines OAuth Difficult roads often lead to beautiful destinations. Big Data Scalability Neural Networks GraphQL The only way to do great work is to love what you do. Load Testing Blockchain
 IoT Machine Learning Sharding Microservices Parallel Processing Big Data Latency Optimization Deployment
+Database Algorithm Stay hungry, stay foolish. Pull Request Zero Downtime Deployment Cloud Functions Cloud Event Sourcing Scalability Innovation distinguishes between a leader and a follower. Containerization IoT
