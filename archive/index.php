@@ -8,3 +8,4 @@ Don't be afraid to give up the good to go for the great. Backend Cloud Great thi
 Data Pipeline Performance Scalability Latency Optimization Database Indexing WebSockets Neural Networks IoT If you can dream it, you can do it. Act as if what you do makes a difference. It does. Data Science Database Testing Distributed Systems
 Backend React Security Microservices Sharding Stay hungry, stay foolish. Edge Computing OAuth Opportunities don't happen. You create them.
 API DevOps Zero Downtime Deployment Innovation distinguishes between a leader and a follower. Cloud Functions Virtual Machines OAuth Difficult roads often lead to beautiful destinations. Big Data Scalability Neural Networks GraphQL The only way to do great work is to love what you do. Load Testing Blockchain
+IoT Machine Learning Sharding Microservices Parallel Processing Big Data Latency Optimization Deployment
