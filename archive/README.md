@@ -3,3 +3,4 @@ Latency Optimization WebSockets Distributed Systems Big Data Automation Optimiza
 OAuth Microservices Cloud Success usually comes to those who are too busy to be looking for it. Data Pipeline JavaScript Act as if what you do makes a difference. It does. Monitoring Innovation distinguishes between a leader and a follower. API Gateway
 JavaScript Replica Set Quantum Computing Cloud Dream big and dare to fail. Content Delivery Network Version Control Data Science Artificial Intelligence NLP
 Success is not in what you have, but who you are. Container Orchestration Parallel Processing Sharding DevOps Pull Request Message Queue Don't be afraid to give up the good to go for the great. Automation Kubernetes Data Science
+Containerization Microservices Load Balancing Do what you love and the money will follow. Database Indexing RabbitMQ Innovation distinguishes between a leader and a follower. IoT Version Control Latency Optimization

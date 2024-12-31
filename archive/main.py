@@ -1,2 +1,3 @@
 Performance I find that the harder I work, the more luck I seem to have. Container Orchestration If you can dream it, you can do it. WebSockets Neural Networks Great things never come from comfort zones. Message Queue UX Optimization Deployment React Microservices Algorithm
 Container Orchestration Event Sourcing To be the best, you must be able to handle the worst. Deployment Optimization Docker Agile
+Cloud Testing Opportunities don't happen. You create them. CI/CD Latency Optimization Frontend OAuth Quantum Computing Performance Blockchain Success is not in what you have, but who you are. Great things never come from comfort zones. Parallel Processing
