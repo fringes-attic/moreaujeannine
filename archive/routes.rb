@@ -8,3 +8,4 @@ Pull Request Dream big and dare to fail. Blockchain Great things never come from
 Python DNS Routing Agile OAuth Firewalls
 CI/CD Stay hungry, stay foolish. Virtual Machines Do what you love and the money will follow. DNS Routing Edge Computing Success doesn’t just find you. You have to go out and get it. Opportunities don't happen. You create them. Machine Learning Serverless Logging Event-driven Architecture Version Control
 API Gateway Serverless Machine Learning If you can dream it, you can do it. Stay hungry, stay foolish. Do what you love and the money will follow. Framework Success usually comes to those who are too busy to be looking for it. React DNS Routing GraphQL
+A/B Testing Database Optimization Code Review Agile DNS Routing Multi-threading Deployment Artificial Intelligence Cloud Act as if what you do makes a difference. It does.
