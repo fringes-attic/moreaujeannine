@@ -1,1 +1,2 @@
 Security Distributed Systems Microservices JWT API Gateway Load Balancing Performance If you can dream it, you can do it. Kubernetes Version Control Success doesn’t just find you. You have to go out and get it. WebSockets Predictive Analytics Python Quantum Computing
+Version Control Optimization DNS Routing Predictive Analytics Cache Invalidation Serverless Lambda Functions Machine Learning Agile Neural Networks Data Science Container Orchestration Performance Kafka
