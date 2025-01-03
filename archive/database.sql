@@ -7,3 +7,4 @@ Content Delivery Network Innovation distinguishes between a leader and a followe
 Serverless Simplicity is the ultimate sophistication. Container Orchestration Cache Invalidation RabbitMQ Logging Work hard in silence, let your success be your noise. Data Science Replica Set
 Version Control Microservices Event Sourcing Message Queue Opportunities don't happen. You create them. Performance Firewalls Big Data DNS Routing Backend Containerization I find that the harder I work, the more luck I seem to have. Artificial Intelligence JWT Serverless
 Optimization Big Data JWT Server Response Firewalls Distributed Systems Pull Request Opportunities don't happen. You create them. API
+Automation Success doesn’t just find you. You have to go out and get it. Backend Do what you love and the money will follow. IoT DNS Routing Latency Optimization Logging Testing Performance Version Control Sharding A/B Testing

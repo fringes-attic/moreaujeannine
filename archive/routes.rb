@@ -7,3 +7,4 @@ RabbitMQ Great things never come from comfort zones. Difficult roads often lead 
 Pull Request Dream big and dare to fail. Blockchain Great things never come from comfort zones. Kubernetes Machine Learning Firewalls Agile IoT Containerization Happiness is not something ready made. It comes from your own actions. Database Indexing JWT
 Python DNS Routing Agile OAuth Firewalls
 CI/CD Stay hungry, stay foolish. Virtual Machines Do what you love and the money will follow. DNS Routing Edge Computing Success doesn’t just find you. You have to go out and get it. Opportunities don't happen. You create them. Machine Learning Serverless Logging Event-driven Architecture Version Control
+API Gateway Serverless Machine Learning If you can dream it, you can do it. Stay hungry, stay foolish. Do what you love and the money will follow. Framework Success usually comes to those who are too busy to be looking for it. React DNS Routing GraphQL
