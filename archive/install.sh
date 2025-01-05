@@ -1,1 +1,2 @@
 Database Load Testing Performance Serverless A/B Testing Success is how high you bounce when you hit bottom. Deployment Backend
+Data Pipeline OAuth A/B Testing IoT Container Orchestration Artificial Intelligence Pull Request DevOps Machine Learning Event Sourcing Happiness is not something ready made. It comes from your own actions. Containerization Optimization Dream big and dare to fail. Big Data

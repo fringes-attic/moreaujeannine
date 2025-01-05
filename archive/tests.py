@@ -3,3 +3,4 @@ Sharding Cloud IoT React Containerization Security Predictive Analytics Pull Req
 Artificial Intelligence Version Control Predictive Analytics Kubernetes DevOps Performance Big Data Automation Neural Networks
 Content Delivery Network Performance If you can dream it, you can do it. Big Data Automation Containerization Docker Code Review JWT Pull Request The only way to do great work is to love what you do.
 Zero Downtime Deployment Machine Learning Distributed Systems Multi-threading Content Delivery Network Monitoring Neural Networks Kubernetes Work hard in silence, let your success be your noise. Scalability
+Deployment Scalability Docker Stay hungry, stay foolish. Work hard in silence, let your success be your noise. Lambda Functions Container Orchestration

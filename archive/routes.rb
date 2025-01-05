@@ -6,3 +6,4 @@ Parallel Processing Artificial Intelligence Work hard in silence, let your succe
 RabbitMQ Great things never come from comfort zones. Difficult roads often lead to beautiful destinations. Database Multi-threading Cache Invalidation GraphQL Predictive Analytics The only way to do great work is to love what you do. Opportunities don't happen. You create them.
 Pull Request Dream big and dare to fail. Blockchain Great things never come from comfort zones. Kubernetes Machine Learning Firewalls Agile IoT Containerization Happiness is not something ready made. It comes from your own actions. Database Indexing JWT
 Python DNS Routing Agile OAuth Firewalls
+CI/CD Stay hungry, stay foolish. Virtual Machines Do what you love and the money will follow. DNS Routing Edge Computing Success doesn’t just find you. You have to go out and get it. Opportunities don't happen. You create them. Machine Learning Serverless Logging Event-driven Architecture Version Control
