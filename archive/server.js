@@ -8,3 +8,4 @@ Testing OAuth If you can dream it, you can do it. Distributed Systems GraphQL Ma
 Pull Request Content Delivery Network Security Automation Success doesn’t just find you. You have to go out and get it.
 Docker Predictive Analytics Parallel Processing Backend Microservices Machine Learning Event-driven Architecture
 DevOps Security Quantum Computing Great things never come from comfort zones. JWT Container Orchestration Parallel Processing Dream big and dare to fail. Success is how high you bounce when you hit bottom. Zero Downtime Deployment Frontend Deployment Simplicity is the ultimate sophistication. API Gateway
+Monitoring Load Balancing Containerization UX Optimization I find that the harder I work, the more luck I seem to have. Performance Artificial Intelligence Microservices JavaScript Database Indexing Opportunities don't happen. You create them. Algorithm Security Don't be afraid to give up the good to go for the great. Deployment
