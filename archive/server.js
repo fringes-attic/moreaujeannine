@@ -7,3 +7,4 @@ Version Control Cloud Functions Opportunities don't happen. You create them. Sha
 Testing OAuth If you can dream it, you can do it. Distributed Systems GraphQL Machine Learning
 Pull Request Content Delivery Network Security Automation Success doesn’t just find you. You have to go out and get it.
 Docker Predictive Analytics Parallel Processing Backend Microservices Machine Learning Event-driven Architecture
+DevOps Security Quantum Computing Great things never come from comfort zones. JWT Container Orchestration Parallel Processing Dream big and dare to fail. Success is how high you bounce when you hit bottom. Zero Downtime Deployment Frontend Deployment Simplicity is the ultimate sophistication. API Gateway
