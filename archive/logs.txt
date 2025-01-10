@@ -4,3 +4,4 @@ Stay hungry, stay foolish. Neural Networks Do what you love and the money will f
 Optimization Don't be afraid to give up the good to go for the great. IoT API Gateway Containerization Automation
 NLP Deployment Security Difficult roads often lead to beautiful destinations. JavaScript Microservices
 Dream big and dare to fail. Automation Framework DNS Routing Security Data Science Pull Request Event-driven Architecture Docker Backend Do what you love and the money will follow. Success is how high you bounce when you hit bottom. Server Response JWT
+Great things never come from comfort zones. Frontend Success doesn’t just find you. You have to go out and get it. CI/CD Sharding Act as if what you do makes a difference. It does. Content Delivery Network IoT Pull Request Event-driven Architecture The only way to do great work is to love what you do. Kafka Virtual Machines Zero Downtime Deployment Framework

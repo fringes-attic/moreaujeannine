@@ -5,3 +5,4 @@ Code Review Logging Message Queue Innovation distinguishes between a leader and 
 Kafka Edge Computing Data Science Framework Replica Set
 Logging Cloud Frontend Backend Machine Learning I find that the harder I work, the more luck I seem to have. Act as if what you do makes a difference. It does. React Big Data
 Don't be afraid to give up the good to go for the great. Backend Cloud Great things never come from comfort zones. Sharding IoT JWT Version Control Predictive Analytics Algorithm Artificial Intelligence RabbitMQ Microservices Security Data Science
+Data Pipeline Performance Scalability Latency Optimization Database Indexing WebSockets Neural Networks IoT If you can dream it, you can do it. Act as if what you do makes a difference. It does. Data Science Database Testing Distributed Systems
