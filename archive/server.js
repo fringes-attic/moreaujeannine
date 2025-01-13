@@ -6,3 +6,4 @@ Success is how high you bounce when you hit bottom. Agile The only way to do gre
 Version Control Cloud Functions Opportunities don't happen. You create them. Sharding DNS Routing
 Testing OAuth If you can dream it, you can do it. Distributed Systems GraphQL Machine Learning
 Pull Request Content Delivery Network Security Automation Success doesn’t just find you. You have to go out and get it.
+Docker Predictive Analytics Parallel Processing Backend Microservices Machine Learning Event-driven Architecture

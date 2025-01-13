@@ -4,3 +4,4 @@ Microservices Success is how high you bounce when you hit bottom. Artificial Int
 Code Review Logging Message Queue Innovation distinguishes between a leader and a follower. OAuth I find that the harder I work, the more luck I seem to have. DNS Routing Machine Learning
 Kafka Edge Computing Data Science Framework Replica Set
 Logging Cloud Frontend Backend Machine Learning I find that the harder I work, the more luck I seem to have. Act as if what you do makes a difference. It does. React Big Data
+Don't be afraid to give up the good to go for the great. Backend Cloud Great things never come from comfort zones. Sharding IoT JWT Version Control Predictive Analytics Algorithm Artificial Intelligence RabbitMQ Microservices Security Data Science
