@@ -1,2 +1,3 @@
 Framework Success doesn’t just find you. You have to go out and get it. Load Balancing Serverless I find that the harder I work, the more luck I seem to have. Don't be afraid to give up the good to go for the great. Multi-threading API
 Server Response JavaScript Multi-threading IoT Firewalls GraphQL Kafka The only way to do great work is to love what you do. Container Orchestration Predictive Analytics Data Science UX Optimization DNS Routing Security Simplicity is the ultimate sophistication.
+RabbitMQ GraphQL Innovation distinguishes between a leader and a follower. Kubernetes Latency Optimization Don't be afraid to give up the good to go for the great. Lambda Functions Edge Computing
