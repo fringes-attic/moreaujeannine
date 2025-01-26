@@ -1,2 +1,3 @@
 Logging The only way to do great work is to love what you do. Edge Computing Great things never come from comfort zones. Neural Networks Pull Request Latency Optimization Virtual Machines Optimization Dream big and dare to fail. Backend JavaScript Testing Opportunities don't happen. You create them.
 Parallel Processing Optimization Dream big and dare to fail. RabbitMQ Data Pipeline Content Delivery Network Kafka Edge Computing JWT Serverless
+Stay hungry, stay foolish. Neural Networks Do what you love and the money will follow. Replica Set Happiness is not something ready made. It comes from your own actions. WebSockets Success doesn’t just find you. You have to go out and get it. Parallel Processing Load Balancing Data Pipeline
